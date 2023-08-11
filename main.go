@@ -15,6 +15,9 @@ func English() {
 func Arabic() {
 	fmt.Println("How are you - Arabic external")
 }
-func BenandFebe() {
+func BenAndFebe() {
 	fmt.Println("The great men")
+}
+func NoTagUpdate() {
+	fmt.Println("No tag added")
 }
