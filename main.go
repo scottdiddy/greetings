@@ -15,3 +15,6 @@ func English() {
 func Arabic() {
 	fmt.Println("How are you - Arabic external")
 }
+func BenandFebe() {
+	fmt.Println("The great men")
+}
