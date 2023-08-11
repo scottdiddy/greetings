@@ -12,3 +12,6 @@ func French()  {
 func english()  {
 	fmt.Println("How are you - English")
 }
+func English()  {
+	fmt.Println("How are you - English external")
+}
