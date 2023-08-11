@@ -6,5 +6,9 @@ func Spanish()  {
 	fmt.Println("Speaking Spanishh")
 }
 func French()  {
-	fmt.Println("Comment ca va - French")
+	english()
+	fmt.Println("Comment ca varrrrrrrrr - French")
+}
+func english()  {
+	fmt.Println("How are you - English")
 }
